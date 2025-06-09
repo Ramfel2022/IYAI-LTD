@@ -1,0 +1,22 @@
+iyai-humanity-ai/
+│
+├── README.md                # Project introduction and vision
+├── CODE_OF_CONDUCT.md       # Ethical engagement rules
+├── LICENSE                  # Open source license
+├── .gitignore               # Git ignored files
+│
+├── data/
+│   └── README.md            # Dataset usage and ethical sourcing
+│
+├── models/
+│   └── fairness_model.py    # Sample ML model with fairness constraints
+│
+├── ethics/
+│   ├── ai_guidelines.md     # IYAI Ethical AI Guidelines
+│   └── audit_framework.md   # AI Auditing & Impact Framework
+│
+├── docs/
+│   └── manifesto.md         # Humanity in AI Manifesto
+│
+└── scripts/
+    └── train_model.py       # Placeholder for AI training logic
