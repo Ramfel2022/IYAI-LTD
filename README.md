@@ -1,6 +1,7 @@
-# IYAI-LTD
+# iYAi LTD.
 Humanity in Artificial Intelligence 
-# IYAI LTD - Humanity in Artificial Intelligence
+# iYAi LTD.
+Humanity in Artificial Intelligence
 
 **Human-Centric AI for Peace, Progress, Prosperity and Ethics**
 
